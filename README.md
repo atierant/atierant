@@ -1,3 +1,7 @@
+<p align="center">
+  ![1652276993928](https://user-images.githubusercontent.com/1587260/228291145-d429794d-91d7-4897-9324-b8d65fec9ae3.jpg)
+</p>
+
 ### ✨ Hi there ! I'm Arnaud Tiérant ! 👋
 
 I live in Montpellier, Hérault, France and working at Sogeti.
@@ -6,6 +10,8 @@ I get by as a
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer;technical+leader;senior+back-end+developer;digital+publisher;music+enthusiast)](https://git.io/typing-svg)  
 
 🔭 I’m currently working for the world's largest manufacturer of civil helicopters and one of the leading manufacturers of military helicopters, and for another company specialised in electricity, from engineering to distribution.
+
+
 
 ### 📫 Connect with me:
 
@@ -62,10 +68,11 @@ I get by as a
 
 ## 📈 GitHub Stats 
 
-[![Arnaud Tierant's github stats](https://github-readme-stats.vercel.app/api?username=atierant&theme=blueberry)](https://github.com/atierant)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&theme=blueberry)](https://github.com/atierant)
-
+<br/>
+<p align="center">
+[![Arnaud Tierant's github stats](https://github-readme-stats.vercel.app/api?username=atierant&theme=blueberry&show_icons=true)](https://github.com/atierant)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&theme=blueberry&show_icons=true)](https://github.com/atierant)
+</p>
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0&theme=blueberry)
