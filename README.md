@@ -13,13 +13,6 @@ I get by as a
 [<img align="left" alt="atierant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="atierant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![PageSpeed](https://pagespeed-insights.herokuapp.com?url=https://arnaud.tierant.me)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atierant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <br />
 
 ### ⚡ Languages and Tools:
@@ -39,7 +32,9 @@ I get by as a
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0&theme=blueberry)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&show_icons=true&theme=blueberry)](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant)
 
 [website]: https://arnaud.tierant.me
 [twitter]: https://twitter.com/atierant
