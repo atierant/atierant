@@ -66,8 +66,6 @@ I get by as a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&theme=blueberry)](https://github.com/atierant)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=atierant.atierant)](https://arnaud.tierant.me)
-
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0&theme=blueberry)
