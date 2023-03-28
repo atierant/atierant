@@ -2,8 +2,8 @@
 
 I make things. Many many things.
 
-I get by as a
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer+leader+developer+publisher+music_enthusiast)](https://git.io/typing-svg)
+I get by as a  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer,+technical+leader,+senior+back-end+developer,+digital+publisher,+music+enthusiast)](https://git.io/typing-svg)  
 living in Montpellier, Hérault, France and working to Sogeti.
 
 🔭 I’m currently working for a company specialised in electricity, from engineering to distribution.
@@ -16,8 +16,10 @@ living in Montpellier, Hérault, France and working to Sogeti.
 
 ![PageSpeed](https://pagespeed-insights.herokuapp.com?url=https://arnaud.tierant.me)
 
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br />
 
