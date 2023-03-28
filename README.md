@@ -72,8 +72,8 @@ I get by as a
 
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atierant&theme=blueberry&show_icons=true" style="height: 200px;max-width: 49%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&theme=blueberry&show_icons=true" style="height: 200px;max-width: 49%;">
+<img src="https://github-readme-stats.vercel.app/api?username=atierant&theme=blueberry&show_icons=true" style="height: 200px;width: 49%;max-width: 49%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atierant&layout=compact&theme=blueberry&show_icons=true" style="height: 200px;width: 49%;max-width: 49%;">
 </p>
 
 ----
