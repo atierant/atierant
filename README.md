@@ -53,6 +53,11 @@ I get by as a
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace placeholders in strings. PHP](https://arnaud.tierant.me/en/articles/en-replace-placeholders-in-strings)
+- [Modify exception code on the fly on Symfony with EventSubscriberInterface](https://arnaud.tierant.me/en/articles/en-modify-exception-code)
+- [Manage Many Keys with SSH Config](https://arnaud.tierant.me/en/articles/en-ssh-config)
+- [Find the MySQL my.cnf location](https://arnaud.tierant.me/en/articles/en-find-mysql-cnf-location)
+- [Compare two string and ignore &lpar;but not replace&rpar; accents. PHP](https://arnaud.tierant.me/en/articles/en-compare-two-strings-ignoring-accents)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats 
