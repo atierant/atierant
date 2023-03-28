@@ -3,7 +3,7 @@
 I make things. Many many things.
 
 I get by as a  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer,+technical+leader,+senior+back-end+developer,+digital+publisher,+music+enthusiast)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer;technical+leader;senior+back-end+developer;digital+publisher;music+enthusiast)](https://git.io/typing-svg)  
 living in Montpellier, Hérault, France and working to Sogeti.
 
 🔭 I’m currently working for a company specialised in electricity, from engineering to distribution.
