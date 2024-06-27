@@ -6,7 +6,7 @@
 
 ### ✨ Hi there ! I'm Arnaud Tiérant ! 👋
 
-I live in Montpellier, Hérault, France and working at the Best French ESN.
+I live in Montpellier, Hérault, France and working at the Best French IT services.
 
 I get by as a  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer;technical+leader;senior+back-end+developer;digital+publisher;music+enthusiast)][website]  
