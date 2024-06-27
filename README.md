@@ -6,12 +6,12 @@
 
 ### ✨ Hi there ! I'm Arnaud Tiérant ! 👋
 
-I live in Montpellier, Hérault, France and working at Sogeti.
+I live in Montpellier, Hérault, France and working at the Best French ESN.
 
 I get by as a  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bioengineer;technical+leader;senior+back-end+developer;digital+publisher;music+enthusiast)][website]  
 
-🔭 I’m currently working for the world's largest manufacturer of civil helicopters and one of the leading manufacturers of military helicopters, and for another company specialised in electricity, from engineering to distribution.
+🔭 I’m currently working for the french defense authority. I worked for the world's largest manufacturer of civil helicopters and one of the leading manufacturers of military helicopters, and for another company specialised in electricity, from engineering to distribution.
 
 
 
